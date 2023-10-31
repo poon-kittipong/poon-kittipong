@@ -1,5 +1,5 @@
 # Kittipong Deevee 🧑🏻‍💻✨
-An eager to learn software engineer, specialized in software development, and UI design.
+An eager to learn software engineer, specialized in software development, DevOps, and UI design.
 
 ## Socials and Profiles
 
